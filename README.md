@@ -50,5 +50,5 @@ transformer.transform_store(labels_fn=get_label_by_filename,image_dir=images_dir
 ```
 
 ## Results and Visualization 
-*** Pictures ***
-
+![Preupsampling](/images/pre upsampling results1.png)
+Format: ![Alt Text](url)
